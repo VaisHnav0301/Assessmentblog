@@ -1,0 +1,22 @@
+.vd{
+    padding-left: 20%;
+    margin-right: auto;
+    padding-right: 30%;
+    border: double;
+    
+    
+}
+.vg{
+    text-decoration: none;
+    }
+.App{
+  
+
+    
+}
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(29,134,164,1) 52%, rgba(0,212,255,1) 100%);
+}
+
+    
